@@ -30,3 +30,11 @@ target="_blank"></a>
 badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/andersonbcn/workflow/blob/main/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/andersonbcn/workflow/blob/main/github-contribution-grid-snake.svg">
+  <img alt="github-contribution-grid-snake" src="https://github.com/andersonbcn/workflow/blob/main/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
