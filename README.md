@@ -7,7 +7,7 @@
 <div>
 <a href="https://about.me/anderson.bcn">
 <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api?username=andersonbcn&show_icons=true&theme=aura_dark&include_all_commits-true&count_private=true" target="_blank"/>
-<img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aandersonbcn&repo=github-readme-stats&cache_seconds=86400&theme=aura_dark" target="_blank"/>
+<img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonbcn&repo=github-readme-stats&cache_seconds=86400&theme=aura_dark" target="_blank"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -17,17 +17,12 @@
 ##
 
 <div>
-<a href="https://www.youtube.com/user/andersonbcn" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-
-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/andersonbcn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-target-"_blank"></a>
-<a href="https://www.twitch.tv/andersonbcn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
-target="_blank"></a>
-<a href="https://discord.com/698313793339654315" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-</a>
+<a href="https://www.youtube.com/user/andersonbcn" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/andersonbcn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target-"_blank"></a>
+<a href="https://www.twitch.tv/andersonbcn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/698313793339654315" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="mailto:anderson@anderson-line.com"><img src="https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andersonbcn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-
-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andersonbcn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <div>
