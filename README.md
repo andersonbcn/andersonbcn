@@ -5,9 +5,9 @@
 - 😄 Pronomes: ele/dele.
 
 <div>
-<a href="https://about.me/anderson.bcn" target="_blank">
-<img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api?username=andersonbcn&show_icons=true&theme=aura_dark&include_all_commits-true&count_private=true"/>
-<img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aandersonbcn&repo=github-readme-stats&cache_seconds=86400&theme=aura_dark"/>
+<a href="https://about.me/anderson.bcn">
+<img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api?username=andersonbcn&show_icons=true&theme=aura_dark&include_all_commits-true&count_private=true" target="_blank"/>
+<img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aandersonbcn&repo=github-readme-stats&cache_seconds=86400&theme=aura_dark" target="_blank"/>
 </div>
 
 <div style="display: inline_block"><br>
