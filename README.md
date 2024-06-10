@@ -33,3 +33,5 @@
 </picture>
 </div>
 
+![Snake animation](https://github.com/andersonbcn/andersonbcn/blob/output/github-contribution-grid-snake.svg)
+
