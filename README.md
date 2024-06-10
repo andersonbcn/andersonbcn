@@ -27,11 +27,9 @@
 
 <div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/andersonbcn/workflow/blob/main/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/andersonbcn/workflow/blob/main/github-contribution-grid-snake.svg">
-  <img alt="github-contribution-grid-snake" src="https://github.com/andersonbcn/workflow/blob/main/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersonbcn/andersonbcn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andersonbcn/andersonbcn/output/github-contribution-grid-snake.svg">
+  <img alt=" " src="https://raw.githubusercontent.com/andersonbcn/andersonbcn/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
-![Snake animation](https://github.com/andersonbcn/andersonbcn/blob/output/github-contribution-grid-snake.svg)
 
